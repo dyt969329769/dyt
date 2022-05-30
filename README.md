@@ -6,7 +6,5 @@ All the input features were generated in silico based on the sequence dataset. F
 
 Prerequisites
  
-Python, NumPy,  SciPy, Matplotlib
-A recent NVIDIA GPU
-Cuda == 9.0
+Python, NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn
 Python == 2020.3.2
