@@ -7,4 +7,4 @@ All the input features were generated in silico based on the sequence dataset. F
 Prerequisites
  
 Python, NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn
-Python == 2020.3.2
+Python == 3.7
